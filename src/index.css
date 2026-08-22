@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #0b0c10;
+  color: #f3f4f6;
+  font-family: system-ui, -apple-system, sans-serif;
+  overflow: hidden;
+}
+
+.pdf-smart-dark {
+  filter: invert(0.92) hue-rotate(180deg) contrast(1.1) brightness(0.95);
+}
+
+/* Custom clean scrollbar for Electron */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0f172a; /* matches dark theme background */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}
+
+/* Makes custom title bar draggable */
+.drag-region {
+  -webkit-app-region: drag;
+}
+
+/* Ensures buttons inside the title bar remain clickable */
+.no-drag {
+  -webkit-app-region: no-drag;
+}
