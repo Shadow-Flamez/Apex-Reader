@@ -20,35 +20,48 @@ Whether studying late at night or managing heavy document workflows, Apex Reader
 
 ---
 
-## 📸 Interface & Visual Themes
+## 📸 Visual Showcase & Themes
 
-### 🎛️ Studio Dashboard & Processing Tools
+<div align="center">
 
-|<img src="https://github.com/user-attachments/assets/1496466a-beb8-436f-a645-51c917fe0289" width="450"/> | <img src="https://github.com/user-attachments/assets/856a2aff-c6fe-4d1f-82cf-ba9a72b4efcf" width="450"/> |
-|:---:|:---:|
-| **Apex Studio Dashboard** | **PDF Processing Suite Catalog** |
+### ⚡ Dashboard & Workspace
 
----
-
-### 🎨 Anime Visual Themes
-
-|<img src="https://github.com/user-attachments/assets/3e87c7a0-a31c-480e-836d-939d5ca5936a" width="450"/> | <img src="https://github.com/user-attachments/assets/e900b6b0-a1a6-43ba-83d8-fc46042035b8" width="450"/> |
-|:---:|:---:|
-| **Naruto Kurama Theme** | **Sasuke Chidori Theme** |
-
-|<img src="https://github.com/user-attachments/assets/cd62eb44-56e3-45c1-a30c-a8ac5032344b" width="450"/> | <img src="https://github.com/user-attachments/assets/5ad9da65-8cde-4724-8f6b-fb73f4c53504" width="450"/> |
-|:---:|:---:|
-| **Itachi Sharingan Theme** | **Emerald Glow Theme** |
+| 🎛️ Studio Hub | 🧰 Tools Catalog |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/1496466a-beb8-436f-a645-51c917fe0289" width="100%"/> | <img src="https://github.com/user-attachments/assets/856a2aff-c6fe-4d1f-82cf-ba9a72b4efcf" width="100%"/> |
+| *Central workstation for loading PDFs and managing recent documents.* | *Full suite for splitting, merging, OCR, and e-signatures.* |
 
 ---
 
-### 🌙 Workspace & Smart Dark Mode
+### 🌙 Smart Dark Mode Engine
 
-|<img src="https://github.com/user-attachments/assets/e907b95f-a701-4d0a-9f3a-eccb1e46b43a" width="450"/> | <img src="https://github.com/user-attachments/assets/1cf066a4-2662-4e3d-901d-060f2f243939" width="450"/> |
-|:---:|:---:|
-| **Cyberpunk Glass Mode (Dark OFF)** | **Smart Dark Mode (ON)** |
+> **Intelligent Inversion:** Darkens the document workspace and page backgrounds while keeping embedded images, diagrams, and figures in their native colors.
+
+| ☀️ Normal View (Dark OFF) | 🌙 Smart Dark Mode (ON) |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/e907b95f-a701-4d0a-9f3a-eccb1e46b43a" width="100%"/> | <img src="https://github.com/user-attachments/assets/1cf066a4-2662-4e3d-901d-060f2f243939" width="100%"/> |
 
 ---
+
+### 🎨 Anime Visual Preset Collection
+
+<details open>
+<summary><b>🔥 Click to Expand / Collapse Anime Theme Gallery</b></summary>
+<br/>
+
+| 🦊 Naruto Kurama | ⚡ Sasuke Chidori |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/3e87c7a0-a31c-480e-836d-939d5ca5936a" width="100%"/> | <img src="https://github.com/user-attachments/assets/e900b6b0-a1a6-43ba-83d8-fc46042035b8" width="100%"/> |
+| *Vibrant orange glow accents* | *Deep electric blue aura* |
+
+| 👁️ Itachi Sharingan | 🟢 Emerald Glow |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/cd62eb44-56e3-45c1-a30c-a8ac5032344b" width="100%"/> | <img src="https://github.com/user-attachments/assets/5ad9da65-8cde-4724-8f6b-fb73f4c53504" width="100%"/> |
+| *Crimson black high-contrast UI* | *Sleek neon green cyber aesthetic* |
+
+</details>
+
+</div>
 
 ## ✨ Key Features
 
