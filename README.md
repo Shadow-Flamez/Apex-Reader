@@ -24,7 +24,7 @@ Whether studying late at night or managing heavy document workflows, Apex Reader
 
 ### 🎛️ Studio Dashboard & Processing Tools
 
-|<img src="https://github.com/user-attachments/assets/b452b25e-964d-4021-bd76-a4aa71e1fc81" width="450"/> | <img src="https://github.com/user-attachments/assets/d1ed786-f2ac-4773-b0b2-2915d2921ef8" width="450"/> |
+|<img src="https://github.com/user-attachments/assets/1496466a-beb8-436f-a645-51c917fe0289" width="450"/> | <img src="https://github.com/user-attachments/assets/856a2aff-c6fe-4d1f-82cf-ba9a72b4efcf" width="450"/> |
 |:---:|:---:|
 | **Apex Studio Dashboard** | **PDF Processing Suite Catalog** |
 
@@ -32,11 +32,11 @@ Whether studying late at night or managing heavy document workflows, Apex Reader
 
 ### 🎨 Anime Visual Themes
 
-|<img src="https://github.com/user-attachments/assets/128b6d71-a76f-4ea7-8722-8fdf28c9fd20" width="450"/> | <img src="https://github.com/user-attachments/assets/768d054a-5fed-4dc2-a2c8-c6ac27478c81" width="450"/> |
+|<img src="https://github.com/user-attachments/assets/3e87c7a0-a31c-480e-836d-939d5ca5936a" width="450"/> | <img src="https://github.com/user-attachments/assets/e900b6b0-a1a6-43ba-83d8-fc46042035b8" width="450"/> |
 |:---:|:---:|
 | **Naruto Kurama Theme** | **Sasuke Chidori Theme** |
 
-|<img src="https://github.com/user-attachments/assets/11e3712c-0822-41cd-bf6b-653366bb0595" width="450"/> | <img src="https://github.com/user-attachments/assets/0fd3c7b1-cebd-4ca0-94de-5364df39faee" width="450"/> |
+|<img src="https://github.com/user-attachments/assets/cd62eb44-56e3-45c1-a30c-a8ac5032344b" width="450"/> | <img src="https://github.com/user-attachments/assets/5ad9da65-8cde-4724-8f6b-fb73f4c53504" width="450"/> |
 |:---:|:---:|
 | **Itachi Sharingan Theme** | **Emerald Glow Theme** |
 
@@ -44,7 +44,7 @@ Whether studying late at night or managing heavy document workflows, Apex Reader
 
 ### 🌙 Workspace & Smart Dark Mode
 
-|<img src="https://github.com/user-attachments/assets/ce4ebecf-6398-43d7-9711-254e3bbf35ac" width="450"/> | <img src="https://github.com/user-attachments/assets/f5ccedd6-b798-4531-b7d9-47cfb28b1a4e" width="450"/> |
+|<img src="https://github.com/user-attachments/assets/e907b95f-a701-4d0a-9f3a-eccb1e46b43a" width="450"/> | <img src="https://github.com/user-attachments/assets/1cf066a4-2662-4e3d-901d-060f2f243939" width="450"/> |
 |:---:|:---:|
 | **Cyberpunk Glass Mode (Dark OFF)** | **Smart Dark Mode (ON)** |
 
