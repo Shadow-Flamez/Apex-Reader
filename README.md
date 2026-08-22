@@ -1,3 +1,6 @@
+![Version](https://img.shields.io/github/v/release/Shadow-Flamez/Apex-Reader)
+![License](https://img.shields.io/github/license/Shadow-Flamez/Apex-Reader)
+![Downloads](https://img.shields.io/github/downloads/Shadow-Flamez/Apex-Reader/total)
 # Apex Reader 🚀
 
 A fast, feature-packed PDF and document reader designed to give traditional PDF viewers a massive upgrade in style and personalization. Powered by dynamic anime visual themes and an eye-friendly Smart Dark Mode, Apex Reader combines high-performance document handling with vibrant, modern aesthetics.
